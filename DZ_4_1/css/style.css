@@ -33,7 +33,7 @@ img {
 .installmentLabel {
 	width: 190px;
 	height: 30px;
-	background-color: #8bc144;
+	background-color: #9ab948;
 	margin-top: 4px;
 	font-family: Tahoma;
 	font-size: 22px;
@@ -61,9 +61,9 @@ img {
 	color: white;
 	text-shadow: -1px 1px black;
 	line-height: 44px;
-	background-color: #ff0000;	
+	background-color: #e93f34;	
 	margin-left: 62px;
-	border-bottom: 4px solid #850000;
+	border-bottom: 4px solid #791c16;
 
 }
 
