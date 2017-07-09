@@ -1,0 +1,21 @@
+.board {
+	height: 600px;
+	width: 600px;
+	display: flex;
+
+}
+
+li {
+	width: 200px;
+	height: 200px;
+	/*border: 1px solid black;*/
+}
+
+.dark {
+	background-color: #791c16;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+}
