@@ -1,0 +1,73 @@
+body {
+	height: 550px;
+	width: 400px;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.card {
+	height: 526px;
+	width: 376px;
+	border: 2px solid #5a5a5a;
+	margin: auto;
+
+}
+
+h1 {
+	font-family: Tahoma;
+	font-size: 22px;
+	font-weight: normal;
+	text-align: center;
+	padding: 10px;
+	line-height: 1.2em;
+}
+
+img {
+	display: block;
+	width: 250px;
+	height: 285px;
+	padding-top: 13px;
+	margin: auto;
+}
+
+.installmentLabel {
+	width: 190px;
+	height: 30px;
+	background-color: #8bc144;
+	margin-top: 4px;
+	font-family: Tahoma;
+	font-size: 22px;
+	font-weight: normal;	
+	text-align: center;
+	line-height: 27px;
+	color: white;
+	box-shadow: -3px 3px 0px 0px rgba(156,156,156,1);
+}
+
+.price {
+	font-family: Tahoma;
+	font-size: 31px;
+	font-weight: normal;	
+	text-align: center;
+	line-height: 67px;
+}
+
+.btnToCard {
+	width: 230px;
+	height: 46px;
+	font-family: Tahoma;
+	font-size: 28px;
+	font-weight: normal;
+	color: white;
+	text-shadow: -1px 1px black;
+	line-height: 44px;
+	background-color: #ff0000;	
+	margin-left: 62px;
+	border-bottom: 4px solid #850000;
+
+}
+
+.btnToCard span{
+	margin: 76px;
+
+}
