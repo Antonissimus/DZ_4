@@ -3,6 +3,7 @@ body {
 	width: 400px;
 	display: table-cell;
 	vertical-align: middle;
+	font-family: Tahoma;	
 }
 
 .card {
@@ -14,7 +15,7 @@ body {
 }
 
 h1 {
-	font-family: Tahoma;
+
 	font-size: 22px;
 	font-weight: normal;
 	text-align: center;
@@ -35,7 +36,6 @@ img {
 	height: 30px;
 	background-color: #9ab948;
 	margin-top: 4px;
-	font-family: Tahoma;
 	font-size: 22px;
 	font-weight: normal;	
 	text-align: center;
@@ -45,7 +45,6 @@ img {
 }
 
 .price {
-	font-family: Tahoma;
 	font-size: 31px;
 	font-weight: normal;	
 	text-align: center;
@@ -55,7 +54,6 @@ img {
 .btnToCard {
 	width: 230px;
 	height: 46px;
-	font-family: Tahoma;
 	font-size: 28px;
 	font-weight: normal;
 	color: white;
@@ -63,11 +61,11 @@ img {
 	line-height: 44px;
 	background-color: #e93f34;	
 	margin-left: 62px;
-	border-bottom: 4px solid #791c16;
-
+	box-shadow: -3px 3px 0px 0px #791c16;
+	border: none;
 }
 
 .btnToCard span{
-	margin: 76px;
+	margin-left: 10px;
 
 }

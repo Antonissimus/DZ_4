@@ -1,24 +1,24 @@
-.board {
-	height: 600px;
-	width: 600px;
-	display: flex;
-
+.firstLine,
+.secondLine,
+.thirdLine {
+	float: left;
 }
-
-li {
+.cell {
 	width: 200px;
 	height: 200px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	/*border: 1px solid black;*/
+	vertical-align: middle;
+	display: table-cell;
 }
 
 .dark {
-	background-color: #791c16;
+	background: #791c16;
 }
 
 img {
+	display: block;
 	width: 180px;
 	height: 180px;
+	margin: auto;
+	line-height: 200px;
+
 }
