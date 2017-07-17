@@ -1,9 +1,9 @@
-.firstLine,
-.secondLine,
-.thirdLine {
-	float: left;
+.board {
+	width: 600px;
+	height: 600px;
 }
 .cell {
+	float: left;
 	width: 200px;
 	height: 200px;
 	vertical-align: middle;

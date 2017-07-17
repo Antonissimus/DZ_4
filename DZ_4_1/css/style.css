@@ -41,6 +41,7 @@ img {
 	text-align: center;
 	line-height: 27px;
 	color: white;
+	border: none;
 	box-shadow: -3px 3px 0px 0px rgba(156,156,156,1);
 }
 
@@ -63,9 +64,5 @@ img {
 	margin-left: 62px;
 	box-shadow: -3px 3px 0px 0px #791c16;
 	border: none;
-}
-
-.btnToCard span{
-	margin-left: 10px;
-
+	text-indent: 10px
 }
